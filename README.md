@@ -1,2 +1,2 @@
 # ILP-Assessment-Tool
-ILP-Assessment-Tool web app made by trainee group project at TCS
+ILP-Assessment-Tool web app project made by astra trainee batch at TCS
